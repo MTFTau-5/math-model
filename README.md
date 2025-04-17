@@ -1,3 +1,2 @@
-# math-model
-# math-model
-# math-model
+记录一下自己的数模比赛过程和各个比赛的代码
+（这难道不是很酷吗）
